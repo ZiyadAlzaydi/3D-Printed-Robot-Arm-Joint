@@ -15,24 +15,32 @@ Printer: AnkerMake M5 with a 0.4 mm nozzle
  Key Printing Settings
  
 Quality
-<img width="507" height="400" alt="Q1" src="https://github.com/user-attachments/assets/8ab23aff-baf5-429e-96b3-92ebd1f3182b" /> <img width="512" height="324" alt="Q2" src="https://github.com/user-attachments/assets/58637f4c-d1cd-4856-bc73-d072fbd4a7d9" /> <img width="524" height="345" alt="Q3" src="https://github.com/user-attachments/assets/0c8cdc25-27ee-46aa-a559-eb555e357948" /> <img width="513" height="399" alt="Q4" src="https://github.com/user-attachments/assets/b43f3a71-377c-48f6-bf0b-f4fbfb7eec05" />
+
+<img width="507" height="400" alt="Q1" src="https://github.com/user-attachments/assets/8ab23aff-baf5-429e-96b3-92ebd1f3182b" />
+<img width="512" height="324" alt="Q2" src="https://github.com/user-attachments/assets/58637f4c-d1cd-4856-bc73-d072fbd4a7d9" />
+<img width="524" height="345" alt="Q3" src="https://github.com/user-attachments/assets/0c8cdc25-27ee-46aa-a559-eb555e357948" />
+<img width="513" height="399" alt="Q4" src="https://github.com/user-attachments/assets/b43f3a71-377c-48f6-bf0b-f4fbfb7eec05" />
 
 
 
 
 
 Strength (Modified)
+
 Wall Loops (Perimeters): 4 loops — increased from default to improve structural strength, especially important for load-bearing joints.
 
 Support (Modified)
+
 Support Material: Enabled (General Support) — ensures proper printing of overhangs and bridging areas within the joint geometry.
 
 Estimated Print Stats
+
 Filament used: ~11.78 meters (35.97 g)
 
 Print time: ~1 hour 55 minutes
 
 Why PETG?
+
 PETG was chosen due to:
 
 High mechanical strength
